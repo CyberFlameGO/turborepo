@@ -39,7 +39,7 @@
     "js-cookie": "^3.0.1",
     "markdown-to-jsx": "^6.11.4",
     "match-sorter": "^6.3.1",
-    "next": "^12.0.7",
+    "next": "^13.5.0",
     "next-themes": "^0.0.15",
     "nextra": "2.0.0-beta.5",
     "parse-git-url": "^1.0.1",
